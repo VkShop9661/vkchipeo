@@ -1,0 +1,6 @@
+[
+  {
+    "currentversion": "1.1",
+    "latestchanges": "Versión personalizada de VK Radio"
+  }
+]
